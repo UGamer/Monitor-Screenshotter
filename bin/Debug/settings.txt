@@ -1,0 +1,4 @@
+OutputDirectory="Screenshots\"		// determines where the screenshots will be saved
+PlayAudio=y				// plays a sound on success. y for yes, n for no
+CopyToClipboard=y			// copies to clipboard on success. y for yes, n for no
+OpenOnSuccess=n				// opens image on success. y for yes, n for no

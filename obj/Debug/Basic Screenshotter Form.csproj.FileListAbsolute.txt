@@ -1,0 +1,10 @@
+D:\Projects\Basic Screenshotter\Basic Screenshotter Form\obj\Debug\Basic Screenshotter Form.csproj.AssemblyReference.cache
+D:\Projects\Basic Screenshotter\Basic Screenshotter Form\obj\Debug\Basic Screenshotter Form.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Basic Screenshotter\Basic Screenshotter Form\obj\Debug\Basic_Screenshotter_Form.Properties.Resources.resources
+D:\Projects\Basic Screenshotter\Basic Screenshotter Form\obj\Debug\Basic Screenshotter Form.csproj.GenerateResource.cache
+D:\Projects\Basic Screenshotter\Basic Screenshotter Form\obj\Debug\Basic Screenshotter Form.csproj.CoreCompileInputs.cache
+D:\Projects\Basic Screenshotter\Basic Screenshotter Form\bin\Debug\Monitor Screenshotter.exe.config
+D:\Projects\Basic Screenshotter\Basic Screenshotter Form\bin\Debug\Monitor Screenshotter.exe
+D:\Projects\Basic Screenshotter\Basic Screenshotter Form\bin\Debug\Monitor Screenshotter.pdb
+D:\Projects\Basic Screenshotter\Basic Screenshotter Form\obj\Debug\Monitor Screenshotter.exe
+D:\Projects\Basic Screenshotter\Basic Screenshotter Form\obj\Debug\Monitor Screenshotter.pdb
